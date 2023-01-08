@@ -1,2 +1,3 @@
-# aprendizagem-lucsap2022
-Nesse repositorio estara todos os meus portfolios ou desenvolvimento das minhas skills como programador.
+## Eu me chamo Lucas💤
+## Eu tenho 17 anos👶
+## Estou cursando TI na escola publica chamada .: EEM ENG° ANNES GUALBERTO
